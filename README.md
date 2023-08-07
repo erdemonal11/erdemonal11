@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @erdemonal11
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning React, Next.js
-  My current websites:  https://starwarshex.vercel.app/
+- 👋 Hi, I’m Erdem.
+- 👀 I’m working in Front-End nowadays.
+- 🌱 I’m currently using React
+-  My current websites:  https://starwarshex.vercel.app/
 
 <!---
 erdemonal11/erdemonal11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
