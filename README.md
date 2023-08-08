@@ -19,4 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemonal11&" alt="erdemonal11" /></p>
 
+![snake gif](https://github.com/erdemonal11/erdemonal11/blob/output/github-contribution-grid-snake.gif)
+
 
