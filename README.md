@@ -20,4 +20,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemonal11&" alt="erdemonal11" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemonal11&" alt="erdemonal11" /></p>
