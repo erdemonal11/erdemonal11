@@ -2,6 +2,17 @@
 
 ###
 
+<p align="left">Websites: https://starwarshex.vercel.app/ https://taskfront-ten.vercel.app/ https://bmicalculator-mauve.vercel.app/ https://mp3converter-xi.vercel.app/ https://passwordgenerator-sable-two.vercel.app/</p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=erdemonal11&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemonal11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
   <img width="12" />
@@ -26,7 +37,9 @@
 
 ###
 
-<p align="left">Websites: https://starwarshex.vercel.app/ https://taskfront-ten.vercel.app/ https://bmicalculator-mauve.vercel.app/ https://mp3converter-xi.vercel.app/ https://passwordgenerator-sable-two.vercel.app/</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/erdemonal11/erdemonal11/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -35,17 +48,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemonal11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/erdemonal11/erdemonal11/output/snake.svg" alt="Snake animation" />
 
 ###
