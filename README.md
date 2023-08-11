@@ -1,7 +1,7 @@
 <h1 align="center">Hi!, I'm Erdem</h1>
 <h3 align="center">Computer Engineering student, currently working in Front-End</h3>
 
-- 🔭 I’m currently working on [My web apps](https://starwarshex.vercel.app/ https://taskfront-ten.vercel.app/ https://bmicalculator-mauve.vercel.app/ https://mp3converter-xi.vercel.app/ https://passwordgenerator-sable-two.vercel.app/ https://qrbeta.vercel.app/))
+- 🔭 I’m currently working on [My web apps](https://starwarshex.vercel.app/ https://taskfront-ten.vercel.app/ https://bmicalculator-mauve.vercel.app/ https://mp3converter-xi.vercel.app/ https://passwordgenerator-sable-two.vercel.app/ https://qrbeta.vercel.app/ )
 
 - 🌱 I’m currently learning **React.js , Next.js**
 
@@ -19,7 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemonal11&" alt="erdemonal11" /></p>
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/erdemonal11/erdemonal11/output/snake.svg" alt="Snake animation" />
 
