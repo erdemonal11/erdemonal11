@@ -1,7 +1,7 @@
 <h1 align="center">Hi!, I'm Erdem</h1>
 <h3 align="center">Computer Engineering student, currently working in Front-End</h3>
 
-- 🔭 I’m currently working on [My web apps](https://starwarshex.vercel.app/ https://taskfront-ten.vercel.app/ https://bmicalculator-mauve.vercel.app/ https://mp3converter-xi.vercel.app/ https://passwordgenerator-sable-two.vercel.app/ https://qrbeta.vercel.app/ https://leafletmap.vercel.app/ )
+- 🔭 I’m currently working on My web apps : (https://starwarshex.vercel.app/ https://taskfront-ten.vercel.app/ https://bmicalculator-mauve.vercel.app/ https://mp3converter-xi.vercel.app/ https://passwordgenerator-sable-two.vercel.app/ https://qrbeta.vercel.app/ https://leafletmap.vercel.app/ )
 
 - 🌱 I’m currently learning **React.js , Next.js**
 
