@@ -1,4 +1,4 @@
-# ⚛️ I'm Erdem, currently pursuing my studies as a junior-class Computer Engineering student based in İstanbul.
+# ⚛️ I'm Erdem, currently pursuing my studies as a junior majoring in Computer Engineering student based in İstanbul. 
 <br>🔭 My web apps : (https://starwarshex.vercel.app/ https://taskfront-ten.vercel.app/ https://bmicalculator-mauve.vercel.app/ https://mp3converter-xi.vercel.app/ https://passwordgenerator-sable-two.vercel.app/ https://qrbeta.vercel.app/ https://leafletmap.vercel.app/ https://pomodoro-tau-seven.vercel.app/ https://quiz-one-amber.vercel.app/ https://budget-one-silk.vercel.app)<br><br>
 
 # 📬 How to reach me : 
