@@ -25,11 +25,15 @@
   </tr>
 </table>
 
+<br/>
+<br/>
+<br/>
+
 <!-- 3D Contributions -->
-<table width="70%" align="center">
+<table width="60%" align="center">
   <tr>
     <td align="center">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 70%;">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 60%;">
     </td>
   </tr>
 </table>
