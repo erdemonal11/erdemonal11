@@ -31,7 +31,6 @@
 
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 30%;">
-<br/>
 <div style="text-align: center;">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white">
