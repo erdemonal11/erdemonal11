@@ -11,8 +11,8 @@
 <table width="60%" align="center">
   <tr>
     <td align="center">
-     
-   <p>
+      <a href="https://erdemonal.vercel.app">
+        <p>
           <img alt="Globe" height="100" src="images/globe.gif">
         </p>
       </a>
@@ -20,7 +20,8 @@
   </tr>
 </table>
 
-<br />
+<p align="center">Click on the globe to see my personal page</p>
+
 <br />
 
 <!-- 3D Contributions -->
