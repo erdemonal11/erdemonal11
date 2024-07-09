@@ -47,7 +47,7 @@
 
 
 <div align="center">
-    <img height="80" alt="Check out my Webapps:" width="100%" src="images/webapps" />
+    <img height="80" alt="Check out my Webapps:" width="100%" src="images/webapps.svg" />
 
 
   <img height="120" alt="Thanks for visiting me!" width="100%" src="images/marquee.svg" />
