@@ -48,11 +48,11 @@
 
 <br/>
 <br/>
-<div align="center">
-    <div style="text-align: left;">
+
+   <div style="text-align: left;">
         <img height="80" alt="Check out my Webapps :" src="images/webapps" />
-    </div>
-    <ul style="list-style-type: disc; text-align: left; margin-left: auto; margin-right: auto; width: fit-content;">
+   
+  <ul style="list-style-type: disc; text-align: left; margin-left: auto; margin-right: auto; width: fit-content;">
         <li><a href="https://text-to-image-wheat.vercel.app">Text to Image AI</a></li>
         <li><a href="https://type-blitz-silk.vercel.app">Typing Speed Game</a></li>
         <li><a href="https://budget-one-silk.vercel.app">Budget Tracking App</a></li>
@@ -67,6 +67,8 @@
         <li><a href="https://mp3converter-xi.vercel.app">YouTube to MP3 Converter</a></li>
         <li><a href="https://bmicalculator-mauve.vercel.app">BMI Calculator</a></li>
     </ul>
+    </div>
+    <div align="center">
     <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
     <br />
 </div>
