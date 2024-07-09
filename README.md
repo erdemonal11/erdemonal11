@@ -30,14 +30,8 @@
 
 </table>
 
-<table width="80%" align="center">
-<tr>
-<td align="center">
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-</td>
-
-
-</table>
+![](./profile-3d-contrib/profile-green-animate.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemonal11&langs_count=10)
 
 <!-- Footer -->
 
