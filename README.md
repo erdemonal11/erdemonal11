@@ -11,16 +11,9 @@
 <table width="60%" align="center">
   <tr>
     <td align="center">
-      <a href="https://erdemonal.vercel.app/">
-        <strong>Visit my personal website</strong>
-        <br />
-        <br />
-        <br />
-        <p>
-          <img alt="Globe" height="100" src="images/globe.gif">
-        </p>
-      </a>
-    </td>
+      
+  <img alt="Globe" height="100" src="images/globe.gif">
+       
   </tr>
 </table>
 
