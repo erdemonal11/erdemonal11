@@ -8,7 +8,12 @@
   <br />
 </div>
 
- <a href="https://erdemonal.vercel.app/">
+
+
+<table width="60%" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://erdemonal.vercel.app/">
         <strong>Visit my personal website</strong>
         <br />
         <br />
@@ -17,6 +22,10 @@
           <img alt="Globe" height="80" src="images/globe.gif">
         </p>
       </a>
+    </td>
+  </tr>
+</table>
+ 
     
 
 
