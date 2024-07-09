@@ -53,23 +53,24 @@
         <img height="80" alt="Check out my Webapps :" src="images/webapps" />
     </div>
     <ul style="list-style-type: disc; text-align: left; margin-left: auto; margin-right: auto; width: fit-content;">
-        <li>Text to Image AI <a href="https://text-to-image-wheat.vercel.app">https://text-to-image-wheat.vercel.app</a></li>
-        <li>Typing Speed Game <a href="https://type-blitz-silk.vercel.app">https://type-blitz-silk.vercel.app</a></li>
-        <li>Budget Tracking App <a href="https://budget-one-silk.vercel.app">https://budget-one-silk.vercel.app</a></li>
-        <li>Spotify Album Search <a href="https://spotifysearch.vercel.app">https://spotifysearch.vercel.app</a></li>
-        <li>Quiz App <a href="https://quiz-one-amber.vercel.app">https://quiz-one-amber.vercel.app</a></li>
-        <li>Map App <a href="https://leafletmap.vercel.app">https://leafletmap.vercel.app</a></li>
-        <li>Advanced Star Wars Movie App <a href="https://starwarshex.vercel.app">https://starwarshex.vercel.app</a></li>
-        <li>Front-End Starters' Website <a href="https://taskfront-ten.vercel.app">https://taskfront-ten.vercel.app</a></li>
-        <li>Pomodoro Timer <a href="https://pomodoro-tau-seven.vercel.app">https://pomodoro-tau-seven.vercel.app</a></li>
-        <li>QR Generator and Scanner App <a href="https://qrbeta.vercel.app">https://qrbeta.vercel.app</a></li>
-        <li>Password Generator & Tester <a href="https://passwordgenerator-sable-two.vercel.app">https://passwordgenerator-sable-two.vercel.app</a></li>
-        <li>YouTube to MP3 Converter <a href="https://mp3converter-xi.vercel.app">https://mp3converter-xi.vercel.app</a></li>
-        <li>BMI Calculator <a href="https://bmicalculator-mauve.vercel.app">https://bmicalculator-mauve.vercel.app</a></li>
+        <li><a href="https://text-to-image-wheat.vercel.app">Text to Image AI</a></li>
+        <li><a href="https://type-blitz-silk.vercel.app">Typing Speed Game</a></li>
+        <li><a href="https://budget-one-silk.vercel.app">Budget Tracking App</a></li>
+        <li><a href="https://spotifysearch.vercel.app">Spotify Album Search</a></li>
+        <li><a href="https://quiz-one-amber.vercel.app">Quiz App</a></li>
+        <li><a href="https://leafletmap.vercel.app">Map App</a></li>
+        <li><a href="https://starwarshex.vercel.app">Advanced Star Wars Movie App</a></li>
+        <li><a href="https://taskfront-ten.vercel.app">Front-End Starters' Website</a></li>
+        <li><a href="https://pomodoro-tau-seven.vercel.app">Pomodoro Timer</a></li>
+        <li><a href="https://qrbeta.vercel.app">QR Generator and Scanner App</a></li>
+        <li><a href="https://passwordgenerator-sable-two.vercel.app">Password Generator & Tester</a></li>
+        <li><a href="https://mp3converter-xi.vercel.app">YouTube to MP3 Converter</a></li>
+        <li><a href="https://bmicalculator-mauve.vercel.app">BMI Calculator</a></li>
     </ul>
     <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
     <br />
 </div>
+
 
     
 
