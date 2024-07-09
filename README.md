@@ -8,9 +8,17 @@
   <br />
 </div>
 
-<!-- Social -->
+
+
+<!-- Combined 3D Contributions and Top Languages Stats -->
 <table width="100%" align="center">
   <tr>
+    <td align="center">
+      <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemonal11&langs_count=10" alt="Top Languages">
+    </td>
     <td align="center">
       <a href="https://erdemonal.vercel.app/">
         <strong>Visit my personal website</strong>
@@ -21,18 +29,6 @@
           <img alt="Globe" height="80" src="images/globe.gif">
         </p>
       </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Combined 3D Contributions and Top Languages Stats -->
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemonal11&langs_count=10" alt="Top Languages">
     </td>
   </tr>
 </table>
