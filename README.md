@@ -8,33 +8,35 @@
   <br />
 </div>
 
- <a href="https://erdemonal.vercel.app/">
-        <strong>Visit my personal website</strong>
-        <br />
-        <br />
-        <br />
-        <p>
-          <img alt="Globe" height="80" src="images/globe.gif">
-        </p>
-      </a>
-    
+<!-- Personal Website Link and Globe Image -->
+<div align="center">
+  <a href="https://erdemonal.vercel.app/">
+    <strong>Visit my personal website</strong>
+    <br />
+    <br />
+    <br />
+    <p>
+      <img alt="Globe" height="80" src="images/globe.gif">
+    </p>
+  </a>
+</div>
 
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
 
 <!-- 3D Contributions -->
-<table width="60%" align="center">
-  <tr>
-    <td align="center">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 60%;">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="60%">
+    <tr>
+      <td align="center">
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 60%;">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Footer -->
 <div align="center">
@@ -46,3 +48,5 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
+
+<!-- Duplicate Personal Website Link and Globe Image removed -->
