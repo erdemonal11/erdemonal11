@@ -8,17 +8,15 @@
   <br />
 </div>
 
-<table width="60%" align="center">
-  <tr>
-    <td align="center">
-      <a href="https://erdemonal.vercel.app">
-        <p>
-          <img alt="Globe" height="100" src="images/globe.gif">
-        </p>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <a href="https://erdemonal.vercel.app">
+    <p>
+      <img alt="Globe" height="100" src="images/globe.gif">
+    </p>
+  </a>
+  <p style="font-size: small;">Click on the globe to see my personal page</p>
+</div>
+
 
 
 <br />
