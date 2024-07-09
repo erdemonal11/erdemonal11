@@ -47,10 +47,10 @@
 
 
 <br/>
-<br/>
+
 
    <div style="text-align: left;">
-        <img height="80" alt="Check out my Webapps :" src="images/webapps" />
+        <img height="80" alt="Check out my Webapps :" src="images/webapps.svg" />
    
   <ul style="list-style-type: disc; text-align: left; margin-left: auto; margin-right: auto; width: fit-content;">
         <li><a href="https://text-to-image-wheat.vercel.app">Text to Image AI</a></li>
