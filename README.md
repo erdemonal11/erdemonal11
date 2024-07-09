@@ -8,27 +8,28 @@
   <br />
 </div>
 
-<div style="text-align: center;">
-  <a href="https://erdemonal.vercel.app">
-    <p>
-      <img alt="Globe" height="100" src="images/globe.gif">
-    </p>
-  </a>
-  <p style="font-size: small;">Click on the globe to see my personal page</p>
-</div>
+<table width="60%" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://erdemonal.vercel.app">
+        <p>
+          <img alt="Globe" height="100" src="images/globe.gif">
+        </p>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">Click on the globe to see my personal page</p>
+
 
 
 
 <br />
 
-<!-- 3D Contributions -->
-<table width="50%" align="center">
-  <tr>
-    <td align="center">
-      <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 50%;">
-    </td>
-  </tr>
-</table>
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 50%;">
+    
 
 <!-- Footer -->
 <div align="center">
