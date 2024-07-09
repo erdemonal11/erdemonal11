@@ -1,10 +1,77 @@
-# ⚛️ I'm Erdem, currently pursuing my studies as a junior majoring in Computer Engineering student based in İstanbul. 
-<br>🔭 My web apps : (https://starwarshex.vercel.app/ https://taskfront-ten.vercel.app/ https://bmicalculator-mauve.vercel.app/ https://mp3converter-xi.vercel.app/ https://passwordgenerator-sable-two.vercel.app/ https://qrbeta.vercel.app/ https://leafletmap.vercel.app/ https://pomodoro-tau-seven.vercel.app/ https://quiz-one-amber.vercel.app/ https://budget-one-silk.vercel.app)<br><br>
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/erdemonal11/erdemonal11/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
 
-# 📬 How to reach me : 
-erdemonal11@outlook.com [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erdemonal11) 
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://brunnerliv.io">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemonal11&layout=pie)](https://github.com/erdemonal11/github-readme-stats)
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+</div>
+
+<!-- Guestbook -->
+| Name | Date | Message |
+|---|---|---|
+| <a href="https://github.com/erdemonal11"><img width="24" src="https://avatars.githubusercontent.com/u/137915983?s=24&v=4" alt="erdemonal11" /> erdemonal11</a> |7/9/2024, 4:21:12 PM|Best readme ever!!|
+| <a href="https://github.com/uwusnyslodziak"><img width="24" src="https://avatars.githubusercontent.com/u/142937950?s=24&u=1a57fca59080306bf114c339ca34828d687d8e3e&v=4" alt="uwusnyslodziak" /> uwusnyslodziak</a> |7/1/2024, 9:01:19 PM|words can't express this readme|
+| <a href="https://github.com/Boopup"><img width="24" src="https://avatars.githubusercontent.com/u/99917823?s=24&u=f3856d1c25ed8f3ef4f6a5929a62e452376d73f8&v=4" alt="Boopup" /> Boopup</a> |6/21/2024, 10:40:45 PM|Nice guestbook!!|
+| <a href="https://github.com/KovasMcCann"><img width="24" src="https://avatars.githubusercontent.com/u/44278533?s=24&u=9ddbdc592909531067911502d3194419135514f1&v=4" alt="KovasMcCann" /> KovasMcCann</a> |6/12/2024, 4:24:47 PM|Cool 👍|
+| <a href="https://github.com/huuquyet"><img width="24" src="https://avatars.githubusercontent.com/u/35992057?s=24&u=0127beb8fbdedd25bacaf682efc6aadb045ed93b&v=4" alt="huuquyet" /> huuquyet</a> |5/31/2024, 10:35:26 AM|Awesome idea, thanks|
+<!-- /Guestbook -->
+
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
