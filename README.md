@@ -1,5 +1,5 @@
 <!-- "Hero" Header -->
-<div style="text-align: center;">
+<div align="center">
   <img src="images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
@@ -8,35 +8,33 @@
   <br />
 </div>
 
+ <a href="https://erdemonal.vercel.app/">
+        <strong>Visit my personal website</strong>
+        <br />
+        <br />
+        <br />
+        <p>
+          <img alt="Globe" height="80" src="images/globe.gif">
+        </p>
+      </a>
+    
 
-<div align="center">
-  <a href="https://erdemonal.vercel.app/">
-    <strong>Visit my personal website</strong>
-    <br />
-    <br />
-    <br />
-    <p>
-      <img alt="Globe" height="80" src="images/globe.gif">
-    </p>
-  </a>
-</div>
 
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
+
 
 <!-- 3D Contributions -->
-<div align="center">
-  <table width="60%">
-    <tr>
-      <td align="center">
-        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 60%;">
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="60%" align="center">
+  <tr>
+    <td align="center">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 60%;">
+    </td>
+  </tr>
+</table>
 
 <!-- Footer -->
 <div align="center">
@@ -48,5 +46,3 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
-
-<!-- Duplicate Personal Website Link and Globe Image removed -->
