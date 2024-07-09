@@ -13,8 +13,7 @@
   <a href="https://erdemonal.vercel.app/">
     <strong>Visit my personal website</strong>
     <br />
-    <br />
-    <br />
+    
     <p>
       <img alt="Globe" height="50" src="images/globe.gif">
     </p>
