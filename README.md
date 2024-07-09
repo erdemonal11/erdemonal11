@@ -29,7 +29,7 @@
 <table width="70%" align="center">
   <tr>
     <td align="center">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 100%;">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 70%;">
     </td>
   </tr>
 </table>
