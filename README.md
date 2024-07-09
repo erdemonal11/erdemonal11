@@ -13,9 +13,7 @@
 <td align="center">
 <a href="https://erdemonal.vercel.app/">
 <p>Visit my personal website </p>
-<br />
-<br />
-<br />
+
 
 <p>
 
