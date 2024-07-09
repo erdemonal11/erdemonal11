@@ -22,9 +22,6 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
 
 <!-- 3D Contributions -->
 <table width="50%" align="center">
