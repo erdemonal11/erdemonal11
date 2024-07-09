@@ -12,14 +12,14 @@
 <tr>
 <td align="center">
 <a href="https://erdemonal.vercel.app/">
-<strong>Visit my personal website </strong>
+<p>Visit my personal website </p>
 <br />
 <br />
 <br />
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="90" src="images/globe.gif">
 </a>
 </p>
 
@@ -30,15 +30,9 @@
 </tr>
 </table>
 
-<p align="center">Click on the globe to see my personal page</p>
 
 
-
-
-<br />
-
-
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 50%;">
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 30%;">
     
 
 <!-- Footer -->
