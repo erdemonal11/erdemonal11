@@ -37,10 +37,10 @@
 
 
 <!-- 3D Contributions -->
-<table width="60%" align="center">
+<table width="50%" align="center">
   <tr>
     <td align="center">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 60%;">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 50%;">
     </td>
   </tr>
 </table>
