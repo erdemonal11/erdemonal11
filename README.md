@@ -19,7 +19,7 @@
 
 <p>
 
-<img alt="Globe" height="60" src="images/globe.gif">
+<img alt="Globe" height="120" src="images/globe.gif">
 </a>
 </p>
 
