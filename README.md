@@ -15,7 +15,7 @@
     <strong>Visit my personal website</strong>
     <br />
     
-    <p>
+   <p>
       <img alt="Globe" height="50" src="images/globe.gif">
     </p>
   </a>
