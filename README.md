@@ -9,14 +9,14 @@
 </div>
 
 
-<!-- Personal Website Link and Globe Image -->
 <div align="center">
   <a href="https://erdemonal.vercel.app/">
     <strong>Visit my personal website</strong>
     <br />
-    
-   <p>
-      <img alt="Globe" height="50" src="images/globe.gif">
+    <br />
+    <br />
+    <p>
+      <img alt="Globe" height="80" src="images/globe.gif">
     </p>
   </a>
 </div>
