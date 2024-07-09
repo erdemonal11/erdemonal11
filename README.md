@@ -6,48 +6,41 @@
   <img height="50" alt="My Name is Erdem and I like Python" src="images/personal_note.svg" />
   <br />
   <br />
-
 </div>
 
 <!-- Social -->
 <table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://erdemonal.vercel.app/">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
-
-</td>
-
-
+  <tr>
+    <td align="center">
+      <a href="https://erdemonal.vercel.app/">
+        <strong>Visit my personal website</strong>
+        <br />
+        <br />
+        <br />
+        <p>
+          <img alt="Globe" height="80" src="images/globe.gif">
+        </p>
+      </a>
+    </td>
+  </tr>
 </table>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemonal11&langs_count=10)
+<!-- 3D Contributions -->
+<table width="70%" align="center">
+  <tr>
+    <td align="center">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="max-width: 100%;">
+    </td>
+  </tr>
+</table>
 
 <!-- Footer -->
-
 <div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
-<br />
-
-
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-
+  <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
+  <br />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
-
