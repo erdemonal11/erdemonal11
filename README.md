@@ -49,7 +49,7 @@
 <br/>
 <br/>
 <div align="center">
-    <img style="max-width: 60%" alt="Check out my Webapps:" width="50%" src="images/webapps.svg" />
+    <img style="max-width: 100%" alt="Check out my Webapps:" width="50%" src="images/webapps.svg" />
 
 
   <img height="120" alt="Thanks for visiting me!" width="100%" src="images/marquee.svg" />
