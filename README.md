@@ -20,7 +20,6 @@
   </tr>
 </table>
 
-<p align="center">Click on the globe to see my personal page</p>
 
 <br />
 
