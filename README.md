@@ -62,7 +62,6 @@
   <ul style="list-style-type: disc; text-align: left; margin-left: auto; margin-right: auto; width: fit-content;">
         <li><a href="https://text-to-image-wheat.vercel.app">Text to Image AI</a></li>
         <li><a href="https://type-blitz-silk.vercel.app">Typing Speed Game</a></li>
-        <li><a href="https://budget-one-silk.vercel.app">Budget Tracking App</a></li>
         <li><a href="https://spotifysearch.vercel.app">Spotify Album Search</a></li>
         <li><a href="https://quiz-one-amber.vercel.app">Quiz App</a></li>
         <li><a href="https://leafletmap.vercel.app">Map App</a></li>
