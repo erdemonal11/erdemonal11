@@ -13,14 +13,16 @@
 <td align="center">
 <a href="https://erdemonal.vercel.app/">
 <p>Visit my personal website </p>
-
-
 <p>
-
 <img alt="Globe" height="120" src="images/globe.gif">
 </a>
 </p>
-
+  <a href="mailto:erdemonal11@outlook.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email Me">
+      </a>
+      <a href="https://www.linkedin.com/in/erdemonal11/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+      </a>
 </td>
 
 
