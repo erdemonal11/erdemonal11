@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
 <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white" alt="JavaFX" />
+<img src="https://img.shields.io/badge/tkinter-%233679a9.svg?style=flat-square&logo=tkinter&logoColor=white" alt="Tkinter" />
 </p>
 
 <br/>
